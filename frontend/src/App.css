@@ -25,32 +25,4 @@ body,
   background: var(--bg-gradient);
   color: var(--text-main);
 }
-
-.app-root {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 32px 16px;
-}
-
-.glass-card {
-  width: 100%;
-  max-width: 960px;
-  background: var(--card-bg);
-  border-radius: 24px;
-  box-shadow: var(--shadow-soft);
-  border: 1px solid rgba(148, 163, 184, 0.25);
-  backdrop-filter: blur(18px);
-  padding: 24px 28px 20px;
-}
-
-/* Header */
-
-.app-header {
-  text-align: left;
-  border-bottom: 1px solid var(--border-subtle);
-  padding-bottom: 16px;
-  margin-bottom: 12px;
-}
 /* The remaining code is hidden */
