@@ -14,15 +14,4 @@
   --radius-lg: 18px;
   --radius-md: 999px;
 }
-
-html,
-body,
-#root {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: var(--bg-gradient);
-  color: var(--text-main);
-}
 /* The remaining code is hidden */
