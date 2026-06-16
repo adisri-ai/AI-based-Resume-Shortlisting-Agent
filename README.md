@@ -1,7 +1,7 @@
 The [Project Link can](https://hub.docker.com/repository/docker/adisrinitw/resunexus2)  be accessed from here.
 # AI-based-Resume-Shortlisting-Agent
-1. An Agentic AI project that can be used for shortlisting candidates based on a provided JD and their resume.
-2. It scores the resume/CVs of each candidate based on relevance to the provided JD.
+1. An Agentic AI project that can be used for shortlisting candidates based on a provided JD and their resume.  
+2. It scores the resume/CVs of each candidate based on relevance to the provided JD. 
 3. Currently deployed as an Azure Blob Trigger Function which gets triggered on user uploading a file into the required blob directory.
 4. Uses Opneai API for grading/classification.
 # Tech Stack  
@@ -11,3 +11,8 @@ The [Project Link can](https://hub.docker.com/repository/docker/adisrinitw/resun
 4. **Frontend** : ReactJS
 5. **Storage API** : Azure Blob Storage SAS
 6. **Deployment** : Docker
+# Requirements  
+1. **Docker Desktop** : Make sure Docker Desktop is installed in your system to pull the docker image.
+2. **Microsoft Azure Subscription** : You must have a subscription of Microsoft Azure with the following services
+        a. **Blob Storage** : Required for storing the files temporarily
+        b. **OpenAI Service** : Make sure you have created a resource of the OpenAI service and have your API Key
