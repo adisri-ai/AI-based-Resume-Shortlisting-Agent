@@ -10,3 +10,4 @@ The [Project Link can](https://hub.docker.com/repository/docker/adisrinitw/resun
 3. **Storage** : Microsoft Azure blob storage
 4. **Frontend** : ReactJS
 5. **Storage API** : Azure Blob Storage SAS
+6. **Deployment** : Docker
