@@ -10,7 +10,7 @@
 
 The **Project Link** can be accessed from here:
 
-https://hub.docker.com/repository/docker/adisrinitw/resunexus2
+[Project Link](https://hub.docker.com/repository/docker/adisrinitw/resunexus2)
 
 ---
 
