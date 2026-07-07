@@ -4,23 +4,13 @@
 
 ---
 
-## 🔗 Project Resources
-
-🐳 **Docker Image**
-
-The **Project Link** can be accessed from here:
-
-[Project Link](https://hub.docker.com/repository/docker/adisrinitw/resunexus2)
-
----
-
 ## 📖 Overview
 
 Recruiters often spend hours manually reviewing hundreds of resumes for a single job opening.
 
 This project automates that process using **Agentic AI**, allowing recruiters to upload a Job Description and a collection of candidate resumes. The system intelligently extracts skills, evaluates each resume against the JD, and generates an overall score for every candidate.
 
-The application is currently deployed as an **Azure Blob Trigger Function**, where uploading files to Azure Blob Storage automatically starts the entire processing pipeline.
+The application is currently deployed as an **Full stack webapp**, where uploading files to Azure Blob Storage automatically starts the entire processing pipeline.
 
 ---
 
