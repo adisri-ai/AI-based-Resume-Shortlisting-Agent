@@ -4,8 +4,8 @@
 
 ---
 ## Project Versioning
-> This is **Azure Cloud** version of this project which makes use of Azure Blob Storage and Premium models using Azure OpenAI for better output.
-> We also have a free version of this project completely independent of cloud for easy access:
+1. This is **Azure Cloud** version of this project which makes use of Azure Blob Storage and Premium models using Azure OpenAI for better output.
+2. We also have a free version of this project completely independent of cloud for easy access:
        For access to **Free version** :
       > [Github Link](https://github.com/adisri-ai/AI-based-Resume-Shortlisting-Free-Version)
       > [🌐Demo Link](https://resunexus-frontend.vercel.app/)
