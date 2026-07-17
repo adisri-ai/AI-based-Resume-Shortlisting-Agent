@@ -3,7 +3,12 @@
 > An AI-powered recruitment platform that automatically evaluates and ranks candidate resumes against a Job Description using Large Language Models.
 
 ---
-
+## Project Versioning
+> This is **Azure Cloud** version of this project which makes use of Azure Blob Storage and Premium models using Azure OpenAI for better output.
+> We also have a free version of this project completely independent of cloud for easy access:
+       For access to **Free version** :
+      > [Github Link](https://github.com/adisri-ai/AI-based-Resume-Shortlisting-Free-Version)
+      > [🌐Demo Link](https://resunexus-frontend.vercel.app/)
 ## 📖 Overview
 
 Recruiters often spend hours manually reviewing hundreds of resumes for a single job opening.
